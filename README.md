@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Jiri Klimes, a UNI student and aspiring developer form Czech Republic.
  
-- I’m interested in programming and Android Apps. My favorite programming langauge is Java.
+- I’m interested in programming, Web development and development of Android Apps. My favorite programming langauge and one in which I'm most experienced at is Java .
  
-- And I’m currently learning Kotlin and Android Studio for Android App Development.
+- I’m currently learning Kotlin and Android Studio for Android App Development.
  
-- How to reach me ... You can contact me on my email: it.klimes@gmail.com
+- How to reach me ... You can contact me through my email: it.klimes@gmail.com
 
 - Currently living in city of Brno and studying at the Brno University of Technology, Czech Republic.
 
-- You can take a look at my work in my public repositories containing my Java practice and projects as well as begginer Android Apps in the Kotlin-Android repository.
+- You can take a look at my work in my public repositories containing my Java practice and projects as well as begginer Android Apps in the Kotlin-Android repository. (See links below)
 
 [My Java Codes](https://github.com/KlimesJiri/core-java)
 
