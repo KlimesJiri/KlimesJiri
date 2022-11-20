@@ -10,9 +10,9 @@
 
 - You can take a look at my work in my public repositories containing my Java practice and projects as well as begginer Android Apps in the Kotlin-Android repository. (See links below)
 
-[My Java Codes](https://github.com/KlimesJiri/core-java)
+[My Java Repository](https://github.com/KlimesJiri/core-java)
 
-[My Kotlin Codes](https://github.com/KlimesJiri/kotlin-android)
+[My Kotlin Repository](https://github.com/KlimesJiri/kotlin-android)
 
 <!---
 KlimesJiri/KlimesJiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
