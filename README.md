@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jiri Klimes, a student and aspiring developer form Czech Republic.
+- 👋 Hi, I’m Jiri Klimes, a UNI student and aspiring developer form Czech Republic.
  
 - I’m interested in programming and Android Apps. My favorite programming langauge is Java.
  
