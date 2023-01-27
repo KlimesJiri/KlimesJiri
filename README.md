@@ -14,6 +14,8 @@
 
 [My Kotlin Repository](https://github.com/KlimesJiri/kotlin-android)
 
+[My JavaScript Repository](https://github.com/KlimesJiri/web-dev)
+
 <!---
 KlimesJiri/KlimesJiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
